@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="easy_canvas">简单图形</string>
+    <string name="arc">简单扇形</string>
+    <string name="heart">PATH基本</string>
+    <string name="path_second">PATH第二类</string>
+</resources>
